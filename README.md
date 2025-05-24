@@ -2,7 +2,11 @@
 ### 
 👋 Hi there! I'm **Andyy** — a backend-focused developer with an interest in building clean, efficient, and modular systems.<br><br>- 🧠 Currently learning and experimenting with backend technologies<br>- 🔧 Comfortable working with Pawn, JavaScript, TypeScript, Go, and MariaDB<br>- 🎮 Passionate about SA:MP game development and logic-based systems<br>- 🚀 Interested in clean architecture, automation, and low-level scripting<br>- 📚 Always learning, always improving<br><br>Feel free to explore my projects or reach out through the links below.
 
+###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 <div align="left">
   <a href="https://www.youtube.com/@ndyy_208" target="_blank">
@@ -21,7 +25,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
   </a>
 </div>
-#
+
+###
+
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -30,7 +36,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-#
+
+###
 
 ## 📊 GitHub Stats:
 <div align="center">
