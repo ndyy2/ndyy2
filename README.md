@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Axelon 👋</h1>
+<h1 align="center">Hi, I'm ndyndy 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Pawn+Scripter;Backend+Developer;Critical+Thinker;Always+Evolving..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Critical+Thinker;Always+Evolving..." />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ndyy2&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
