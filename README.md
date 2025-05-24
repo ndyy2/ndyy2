@@ -41,6 +41,8 @@
 
 ###
 
+###
+
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ndyy2&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
@@ -50,6 +52,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ndyy2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ndyy2&icon=0&color=6)](https://visitcount.itsvg.in)
