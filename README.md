@@ -52,7 +52,6 @@
 
 ###
 
----
-<img src="https://raw.githubusercontent.com/ndyy2/ndyy2/output/snake.svg" alt="Snake animation" />
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=ndyy2&icon=0&color=6)](https://visitcount.itsvg.in)
