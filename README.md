@@ -4,6 +4,12 @@
 👋 Hi there! I'm **Andyy** — a backend-focused developer with an interest in building clean, efficient, and modular systems.<br><br>- 🧠 Currently learning and experimenting with backend technologies<br>- 🔧 Comfortable working with Pawn, JavaScript, TypeScript, Go, and MariaDB<br>- 🎮 Passionate about SA:MP game development and logic-based systems<br>- 🚀 Interested in clean architecture, automation, and low-level scripting<br>- 📚 Always learning, always improving<br><br>Feel free to explore my projects or reach out through the links below.<br>
 ###
 
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.youtube.com/@ndyy_208" target="_blank" rel="noopener noreferrer">
@@ -22,12 +28,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
