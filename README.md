@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ndyndy 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Critical+Thinker;Always+Evolving..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Critical+Thinker;Always+Evolving..." align="center"/>
 </p>
 
 ---
