@@ -24,8 +24,7 @@
 
 ### 🔗 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> •
-  <a href="mailto:youremail@example.com">Email</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
+<p align="center">
+  <a href="https://discord.com/users/985860846066466826" target="_blank">Discord</a> •
+  <a href="https://t.me/Ndyy_2" target="_blank">Telegram</a> •
 </p>
