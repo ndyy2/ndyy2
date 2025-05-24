@@ -11,8 +11,8 @@
   <a href="https://discord.gg/YOUR_DISCORD_CHANNEL" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://x.com/yourxhandle" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x-twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
   </a>
   <a href="https://instagram.com/yourinstagram" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
 
 
 # 💻 Tech Stack:
