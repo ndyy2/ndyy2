@@ -1,38 +1,22 @@
-<h1 align="center">Hi, I'm ndyndy 👋</h1>
+# 💫 About Me:
+### 👋 Hi there! I'm a backend-focused developer with an interest in building clean, efficient, and modular systems.<br><br>- 🧠 Currently learning and experimenting with backend technologies<br>- 🔧 Comfortable working with Pawn, JavaScript, TypeScript, Go, and MariaDB<br>- 🎮 Passionate about SA:MP game development and logic-based systems<br>- 🚀 Interested in clean architecture, automation, and low-level scripting<br>- 📚 Always learning, always improving<br><br>Feel free to explore my projects or reach out through the links below.<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Architect+and+Pawn+Alchemist;Driven+by+Logic,+Crafted+with+Elegance;Silently+Building,+Strategically+Dominating;Evolving+Beyond+Conventions..." align="center"/>
-</p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EtegRjem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ndyndyy7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andypradana175@gmail.com) 
 
-### 🌟 About Me
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-- 🧠 Focused on logic, clarity, and elegant design  
-- 🛠 Languages: `Pawn`, `JavaScript`, `Go`, `MySQL`
-- 🧩 Currently building: **Axelon Core** (Modular RP Framework)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ndyy2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndyy2&show_icons=true&theme=tokyonight" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ndyy2&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ndyy2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndyy2&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ndyy2&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
-</p>
-
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://discord.com/users/985860846066466826" target="_blank">Discord</a> •
-  <a href="https://t.me/Ndyy_2" target="_blank">Telegram</a> •
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
