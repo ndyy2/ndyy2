@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://www.youtube.com/channel/CHANNEL_ID" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/@ndyy_208" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://discord.gg/YOUR_DISCORD_CHANNEL" target="_blank" rel="noopener noreferrer">
@@ -14,7 +14,7 @@
   <a href="https://x.com/yourxhandle" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=X&logo=x-twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
   </a>
-  <a href="https://instagram.com/yourinstagram" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/ndyndyy7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
