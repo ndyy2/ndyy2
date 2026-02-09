@@ -60,6 +60,9 @@ Check out my projects or connect with me through the links below!
 
 ###
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ndyy2&icon=0&color=6)](https://visitcount.itsvg.in)
